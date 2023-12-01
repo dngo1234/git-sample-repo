@@ -1,0 +1,6 @@
+
+ Git status -> prints the status of the Git repository
+Git init -> initializes the Git repository
+Git config  -> global user.name "Let's Kode It"-> Specify username
+Git config  -> global user.email 
+Git config ->
