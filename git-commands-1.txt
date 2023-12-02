@@ -21,3 +21,15 @@ Second Release
 Third Release
 	1 Feature
 	1 Person
+
+
+Scenario 3:
+1 Person -> Two different features
+Work on different branches
+
+		PrivateBranch1-------------------
+
+		Main------------Release-----------Main-----
+=======
+
+
