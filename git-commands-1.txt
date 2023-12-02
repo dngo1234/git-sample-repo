@@ -13,6 +13,15 @@ Git remote add origin <GitHub Repository URL>		-> Established connection to the 
 Git push origin main					-> Push to main branch
 
 
+Scenario 1:
+First release -> Done
+Second Release
+	2 Features
+	2 People
+Third Release
+	1 Feature
+	1 Person
+
 
 Scenario 3:
 1 Person -> Two different features
@@ -21,3 +30,6 @@ Work on different branches
 		PrivateBranch1-------------------
 
 		Main------------Release-----------Main-----
+=======
+
+
