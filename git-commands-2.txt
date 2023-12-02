@@ -1,6 +1,13 @@
 
- Git status -> prints the status of the Git repository
-Git init -> initializes the Git repository
-Git config  -> global user.name "Let's Kode It"-> Specify username
-Git config  -> global user.email 
-Git config ->
+ Git status                                     		-> prints the status of the Git repository
+Git init    					  	-> initializes the Git repository
+Git config  --global user.name "Let's Code It".         -> Specify Username globally
+Git config  --global user.email letskodeit@gmail.com.   -> Specify Email globally
+Git config  --global user.name "Let's Code It".         -> Specify Username for particular repository
+Git config  --global user.email letskodeit@gmail.com.   -> Specify Email for particular repository
+Git add 						-> Add file to staging environment
+Git commit -m "" 					-> Commit file to local Git Repository
+Git log 						-> Check file log history
+Git diff <filename>					-> Check changes made to file with existing file
+Git remote add origin <GitHub Repository URL>		-> Established connection to the remote Github Repository
+Git push origin main					-> Push to main branch
