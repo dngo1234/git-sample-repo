@@ -11,3 +11,13 @@ Git log 						-> Check file log history
 Git diff <filename>					-> Check changes made to file with existing file
 Git remote add origin <GitHub Repository URL>		-> Established connection to the remote Github Repository
 Git push origin main					-> Push to main branch
+
+
+Scenario 1:
+First release -> Done
+Second Release
+	2 Features
+	2 People
+Third Release
+	1 Feature
+	1 Person
